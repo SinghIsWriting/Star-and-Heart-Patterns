@@ -12,10 +12,12 @@ Make sure you have a C compiler installed on your system. For example, you can u
 ## Instructions
 
 1. Clone this repository to your local machine using the following command:
-git clone <repository-url>
+git clone https://github.com/SinghIsWriting/Star-and-Heart-Patterns.git
+
 2. Navigate to the cloned repository directory
 3. Compile the C programs using your preferred C compiler. For example, with GCC:
   gcc star_pattern.c -o star_pattern
+
 4. Run the compiled programs to see the output:
   ./star_pattern
 
