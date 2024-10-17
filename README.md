@@ -1,9 +1,10 @@
 # Star-and-Heart-Patterns
 I have wriiten code for some basic star patterns. Basically, this is a C++ language code to print some Start Patterns made of asterisk.
 
-# C Star and Heart Patterns
+# Star and Heart Patterns
 
-This repository contains C programs to print various star patterns and a heart pattern.
+This repository contains C program to print various star patterns and a heart pattern.
+The `star_and_heart_patterns.cpp` file contains a program that prints a pyramid-like star pattern, triangle and reversed triangle patterns, square patterns and a heart pattern.
 
   ```c
   Welcome to Universe of Patterns ;)
@@ -150,17 +151,48 @@ Make sure you have a C/C++ compiler installed on your system. For example, you c
 ## Instructions
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/SinghIsWriting/Star-and-Heart-Patterns.git
-
+  ```bash
+  git clone https://github.com/SinghIsWriting/Star-and-Heart-Patterns.git
+  ```
 2. Navigate to the cloned repository directory
+  ```bash
+  cd Star-and-Heart-Patterns
+  ```
 3. Compile the C programs using your preferred C compiler. For example, with GCC:
+  ```bash
   gcc star_and_heart_patterns.cpp -o star_pattern
-
+  ```
 4. Run the compiled programs to see the output:
+  ```bash
   ./star_pattern
+  ```
 
-## Available Patterns
+## Contributing
+We welcome contributions from the community. If you'd like to contribute, please follow these steps:
 
-### Star Pattern
+1. Fork the repository.
+2. Create a new branch:
+```
+git checkout -b feature-branch
+```
+3. Commit your changes:
+```
+git commit -m 'Add some feature'
+```
+4. Push to the branch:
+```
+git push origin feature-branch
+```
+5. Open a Pull Request.
+Please ensure your code follows best practices and is well documented.
 
-The `star_and_heart_patterns.cpp` file contains a program that prints a pyramid-like star pattern, triangle and reversed triangle patterns, square patterns and a heart pattern.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+If you have any questions or need support, feel free to contact the project maintainer:
+
+* Email: sabhisheksignh343104@gmail.com
+* GitHub: [SinghIsWriting](https://github.com/SinghIsWriting)
+* LinkedIn: [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-bba2662a9)
+
